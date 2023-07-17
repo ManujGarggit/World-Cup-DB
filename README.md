@@ -7,7 +7,7 @@
 - Manuj Garg - 2021101047
 - Ishit Bansal - 2021101083
 
-> Create a MySQL database, load the phase4/dump.sql in it, update user,password and db in phase4/cricket_worldcup.py
+> Create a MySQL database, load the phase4/dump.sql in it, update user,password and db in `phase4/proj.py`
 
 > To compile the python script run - python3 phase4/cricket_worldcup.py
 
