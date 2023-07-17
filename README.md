@@ -1,7 +1,5 @@
 # Data and Applications
 
-<br>
-<br>
 
  ### Team
 
